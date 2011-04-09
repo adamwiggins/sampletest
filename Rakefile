@@ -1,3 +1,3 @@
 task 'test' do
-  puts "Hello world"
+  puts "Hello whirled"
 end
